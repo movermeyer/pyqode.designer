@@ -1,11 +1,11 @@
 Qt Designer startup script
 ===================================
 
-.. image:: https://pypip.in/d/pyqode.designer/badge.png
+.. image:: https://img.shields.io/pypi/dm/pyqode.designer.svg
     :target: https://crate.io/packages/pyqode.designer/
     :alt: Number of PyPI downloads
 
-.. image:: https://pypip.in/v/pyqode.designer/badge.png
+.. image:: https://img.shields.io/pypi/v/pyqode.designer.svg
     :target: https://crate.io/packages/pyqode.designer/
     :alt: Latest PyPI version
 
